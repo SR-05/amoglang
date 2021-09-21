@@ -21,7 +21,9 @@ All the code, assets in this repository are subjected to copyright under [@Kitty
 ### Structuring of this repository
 
 Wondering how to look at this repo and all the folders? Fear not support is here!
-Take a look at []()
+Take a look at [STRUCTURE.md](https://github.com/KittyBorgX/amoglang/blob/main/STRUCTURE.md) for more details.
+
+### Contributing
 
 ### Credits:
 
