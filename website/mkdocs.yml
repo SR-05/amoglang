@@ -1,23 +1,32 @@
-site_name: amoglang
+site_name: Amoglang
+site_author: KittyBorgX
+site_description: >-
+  A functional programming language with simple syntax and a very efficient thread management system.
+repo_name: KittyBorgX/amoglang
+repo_url: https://github.com/KittyBorgX/amoglang
+
+copyright: Copyright &copy; 2021 KittyBorgX
+
 plugins:
   - search
 theme:
+  custom_dir: overrides
   palette:
     - scheme: slate
       primary: black
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to light mode
     - scheme: default
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to dark mode
   name: material
   features:
-    - navigation.instant
-    - navigation.tracking
+    - navigation.sections
     - search.suggest
     - search.highlight
+
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -25,8 +34,11 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/xfnnEVyCgv
 
-repo_url: https://github.com/KittyBorgX/amoglang
-repo_name: KittyBorgX/amoglang
-
 nav:
-  - Getting started: index.md
+  - Home: index.md
+  - Documentation:
+      - Getting Started: docs/getstarted.md
+      - Installation: docs/install.md
+      - About: docs/about.md
+
+edit_uri: edit/main/docs
