@@ -1,0 +1,3 @@
+# amoglang
+
+Contributing guide!
