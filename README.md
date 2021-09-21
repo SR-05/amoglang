@@ -16,7 +16,12 @@ I do not own nor have made among us. All the credit goes to the company [Innersl
 
 ### Licensing:
 
-All the code, assets in this repository are subjected to copyright under [@KittyBorgX](https://github.com/KittyBorgX) and amoglang maintainers
+All the code, assets in this repository are subjected to copyright under [@KittyBorgX](https://github.com/KittyBorgX) and amoglang maintainers and is protected under the "Apache License 2.0". Look at [LICENSE](https://github.com/KittyBorgX/amoglang/blob/main/LICENSE) for more info.
+
+### Structuring of this repository
+
+Wondering how to look at this repo and all the folders? Fear not support is here!
+Take a look at []()
 
 ### Credits:
 
