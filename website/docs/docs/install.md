@@ -1,1 +1,1 @@
-# Install HydraLang
+# Install amoglang
