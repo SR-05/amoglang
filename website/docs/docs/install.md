@@ -1,3 +1,3 @@
 # Install amoglang
 
-> Soon!
+> Coming Soon!
