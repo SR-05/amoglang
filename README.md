@@ -2,15 +2,15 @@
 
 Is this lang sus?
 
-### Mate, what is this??
+### What is this??
 
-This is an esolang in the theme of the game "Among Us". All syntax, VM and bytes are AMONG US based.
+This is an esolang in the theme of the game "Among Us". All syntax, VM and bytes are "AMONG US" based.
 
-### Can i use this yet?
+### Can I use this yet?
 
-Nah, im starting work on this rn. I have upcoming exams, so i will start actual work on this by October 13th. Thanks for being patient :)
+Nah, im starting work on this rn. I have upcoming exams, so I will start actual work on this by October 13th. Thanks for being patient :)
 
-### Notice:
+### Copyright Notice:
 
 I do not own nor have made among us. All the credit goes to the company [Innersloth](https://www.innersloth.com/) for the game. This is just an esolang implementation.
 
@@ -20,13 +20,13 @@ All the code, assets in this repository are subjected to copyright under [@Kitty
 
 ### Structuring of this repository
 
-Wondering how to look at this repo and all the folders? Fear not support is here!
+Wondering how to look at this repo and all the folders? Fear not, support is here!
 Take a look at [STRUCTURE.md](https://github.com/KittyBorgX/amoglang/blob/main/documentation/info/STRUCTURE.md) for more details.
 
 ### Contributing:
 
-Take a look at
+Take a look at [CONTRIBUTING.md](https://github.com/KittyBorgX/amoglang/blob/main/documentation/info/CONTRIBUTING.md) for contributing details!
 
 ### Credits:
 
-[@legitnull](https://github.com/legitnull) for the caption and supporting me!
+[@legitnull](https://github.com/legitnull) for the caption!
