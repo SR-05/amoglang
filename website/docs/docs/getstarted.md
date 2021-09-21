@@ -30,3 +30,5 @@ Take a look at [CONTRIBUTING.md](https://github.com/KittyBorgX/amoglang/blob/mai
 ### Credits:
 
 [@legitnull](https://github.com/legitnull) for the caption!
+[@TheOtterlord](https://github.com/TheOtterlord) for the front page
+@Tsukuyomi#4259 for suggesting mkdocs!
